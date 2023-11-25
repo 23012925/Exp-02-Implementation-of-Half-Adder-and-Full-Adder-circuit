@@ -89,4 +89,4 @@ RTL realization
 
 
 ### Result:  
-           Thus, the Implementation of Half Adder and Full Adder circuits are verified.
+           Thus, the implementation of Half Adder and Full Adder circuits are verified.
