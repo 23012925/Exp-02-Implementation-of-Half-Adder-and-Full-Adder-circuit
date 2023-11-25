@@ -44,47 +44,47 @@ RegisterNumber: 23012925
 Logic symbol & Truthtable
 RTL realization
 
-### Code
+# Code
 
-                                                                      ###   HALF ADDER: 
+                                                                      ### HALF ADDER: 
                                                                          
 ![program](https://github.com/23012925/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931013/f7010711-b569-4d21-9cf6-bd27b955e7b0)
 
-                                                                       ###  FULL ADDER:
+                                                                      ### FULL ADDER:
 
 ![program](https://github.com/23012925/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931013/2738a3cb-6587-4985-b7e8-d86977420e0a)
                                                                          
 
-### RTL
+# RTL
 
-                                                                      ###   HALF ADDER: 
+                                                                      ### HALF ADDER: 
 
 ![RTL viewer](https://github.com/23012925/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931013/f31387b2-98aa-421b-b447-d2d2d3752b6f)
                                                                          
-                                                                      ###   FULL ADDER:
+                                                                      ### FULL ADDER:
 
 ![RTL viewer](https://github.com/23012925/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931013/e1597298-7fbe-4d2b-a48d-4986334dbd1c)
 
                                                                          
 
-### TIMING DIAGRAM
+# TIMING DIAGRAM
 
-                                                                      ###   HALF ADDER: 
+                                                                      ### HALF ADDER: 
 
  ![Timing diagram](https://github.com/23012925/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931013/4fe78122-ddc8-4b30-993d-49d28008e75f)
                                                                         
-                                                                      ###   FULL ADDER:
+                                                                      ### FULL ADDER:
 
  ![Timing diagram](https://github.com/23012925/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931013/9650ffa1-9081-4087-ba70-0a400ccc1510)
 
 
-### TRUTH TABLE   
+# TRUTH TABLE   
 
-                                                                      ###   HALF ADDER: 
+                                                                      ### HALF ADDER: 
 
 ![truth table](https://github.com/23012925/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931013/d8f0276b-8766-4740-b3d5-6c271731bb48)
 
-                                                                       ###  FULL ADDER:
+                                                                      ### FULL ADDER:
 
 ![truth table](https://github.com/23012925/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150931013/b1cba94c-bd6e-4e07-9250-3b86e15855cc)
 
